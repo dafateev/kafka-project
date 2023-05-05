@@ -5,7 +5,7 @@
 ####Для того чтобы приложение заработало, необходимо запустить Zookeeper и Kafka
 
 Для этого в системе Windows необходимо:
-1. Скачать и распаковать архив с Kafka и Zookeper c сайта [https://kafka.apache.org/quickstart](1. Скачать и распаковать архив с Kafka и Zookeper c сайта https://kafka.apache.org/quickstart
+1. Скачать и распаковать архив с Kafka и Zookeper c сайта [https://kafka.apache.org/quickstart]
 2. В адресной строке папки с кафкой набрать команду `cmd`
 3. В открывшемся окне консоли набрать команды запуска среды Kafka(Zookeeper)
 `.\bin\windows\zookeeper-server-start.bat`
